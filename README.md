@@ -56,4 +56,4 @@ While implementing your solution **please take care of the following requirement
 - the submission link will be shared on slack and there is no room for a late submission.
 - Advice: Show us how you work through your commit history.
 
-#### DEADLINE ON OR BEFORE COD 17th FEBRUARY, 2023
+#### DEADLINE ON OR BEFORE 17th FEBRUARY, 2023
