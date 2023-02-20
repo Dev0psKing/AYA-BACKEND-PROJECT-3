@@ -25,6 +25,7 @@ We have a fleet of **20 eVTOL**.  An eVTOL is capable of carrying devices and ca
 - code (allowed only upper case letters, underscore, and numbers);
 - image (picture of the medication case).
 
+
 Develop a service via REST API that allows clients to communicate with the eVTOL (i.e. **dispatch controller**).
 
 The service should allow:
